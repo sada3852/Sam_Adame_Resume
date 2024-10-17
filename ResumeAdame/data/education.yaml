@@ -1,0 +1,13 @@
+- name: MS Management Information Systems
+  university: University of Arizona
+  location: Tucson, AZ
+  date: 2023- 2025
+  gpa: 4.00 / 4.00
+  details: >
+    Accelerated Masters Program 
+
+- name: BS Management Information Systems
+  university: University of Arizona
+  location: Tucson, AZ
+  date: 2020 - 2024
+  gpa : 3.7 / 4.00

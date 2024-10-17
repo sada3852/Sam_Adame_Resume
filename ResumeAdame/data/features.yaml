@@ -1,0 +1,71 @@
+about:
+  name: Sam Adame
+  tagline: Data Analyst
+  phone: "847-636-1052"
+  email: sadame3852@arizona.edu
+  links:
+    - title: /in/mertbakir
+      url: https://tr.linkedin.com/in/mertbakir
+      icon: fab fa-linkedin
+    - title: mertbakir
+      url: https://gitlab.com/mertbakir/
+      icon: fab fa-gitlab
+    - title: mertbakir
+      url: https://github.com/mertbakir
+      icon: fab fa-github
+  details: |
+    I hold myself to a high standard and only know how to give my best effort. I am constantly looking for ways to improve and soak information from anyone I can. I believe in creating connections to help both parties flourish. 
+    When I am asked for a task that requires teamwork or self-managed focus, I find a way to get the job done. I always strive to go above and beyond. I was raised to be competitive and I carry that in every aspect of my professional career. 
+
+
+skills:
+  - groupName: Databases & Visualization
+    list:
+      - Tableau - PowerBI
+
+  - groupName: Data Analysis & Analytics
+    list:
+      - Python - Excel - SQL
+
+  - groupName: Programming & Systems
+    list:
+      - Git - Docker - Linux 
+
+interests:
+  - Data Analytics
+  - AI Applications
+  - Optimization Problems
+
+languages:
+  - name: English
+    level: Native
+# This will use the default widget: "details-list"
+awards:
+  - title: "Tübitak - Graduation Project"
+    date: "2017"
+    subtitle: "A Decision Support System for 3D Cutting Problem"
+    #details: |
+    #   - add more here if you like to.
+    #   - or just comment out/delete the field.
+    links:
+      - title: example
+        url: https://mertbakir.gitlab.io
+        icon: fas fa-bolt
+        prefix: "This is an " # use quotation marks if you want to pass the tailing space.
+      - title: second link.
+        url: https://esdfdsfdsf
+        icon: "-" # you can get rid of the icon by entering dummy text
+        prefix: "omg"
+
+academic:
+  - title: "Team Lead | Data Analytics Challenge| Estonian Transport Administration"
+    date: "08.2024"
+    details: 
+      Evaluated over 700,000 traffic data records to find trends of issues, determined business needs for the client, presented data-driven results, and assessed user requirements 
+      Collaborated with a team of 6 members to conduct in-depth analysis and present findings while adhering to a strict deadline
+
+  - title: "Data Administrator | Database Management Project | Major League Baseball"
+    date: "08.2024 - 12.2024"
+    details: 
+      Leveraged business and technical perspective while assessing user requirements to meet usability standards 
+      Led Design and Development of a comprehensive database that provides users with data to drive informed decision-making

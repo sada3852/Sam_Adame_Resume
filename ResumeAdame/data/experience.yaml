@@ -1,0 +1,29 @@
+- company: Cable One
+  roles:
+    - role: Business Development Analyst Intern
+      details: |
+        Leveraged finance, accounting, and analytical principles to support core business processes, including budgeting and forecasting, by creating detailed financial models and variance analysis reports using Microsoft Excel which drove data-driven recommendations and enhanced decision-making for client solutions.
+        Aggregated and analyzed data using Power BI to identify opportunities for increased profitability and efficiency, developed valuation analyses for potential acquisitions, and assessed user requirements solutions that met client needs and usability standards.
+        Supported M&A deal execution and collaborated with the Investor Relations team to maintain key relationships, while developing a deep understanding of industry value drivers to provide informed, data-driven recommendations and enhance client support in a dynamic business environment.
+      date: 06.2024 -  08.2024
+
+- company: SVN Desert Commercial Advisors
+  page: 1
+  roles: 
+    - role: Summer Analyst Intern
+      tools: SQL, Excel
+      details: |
+        Conducted comprehensive financial modeling and market research to evaluate investment opportunities using Excel, providing data-driven insights and recommendations to support strategic decision-making for commercial real estate
+        Collaborated with Commercial Real Estate Advisors and the Managing Director to create effective marketing materials and deliver compelling presentations, enhancing client communication and engagement in a team-oriented environment 
+        Leveraged Microsoft Office tools to streamline the creation of detailed reports and presentations, ensuring clear and impactful communication of analysis and project results 
+      date: 06.2023 - 08.2023
+    
+- company: Copra International
+  page: 2
+  roles:
+    - role: Data Analyst Intern
+      tools: Python, Excel
+      details: |
+        Evaluated national State Chamber of Commerce resources to identify market development opportunities, providing data-driven insights to support strategic business decisions
+        Designed and developed a comprehensive database for the Chamber of Commerce, streamlining the analysis of market development opportunities and enhancing data accessibility for informed decision making 
+      date: 02.2023 - 03.2023
